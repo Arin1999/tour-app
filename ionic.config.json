@@ -1,0 +1,7 @@
+{
+  "name": "Tour",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
